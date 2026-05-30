@@ -1,0 +1,4 @@
+=== SENSOR REPORT ===
+ Max temperature: 45
+ Min temperature: 35
+ Avg temperature: 39.38
